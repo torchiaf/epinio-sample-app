@@ -1,0 +1,7 @@
+applications:
+  - name: cf-quick-app
+    memory: 16M
+    disk_quota: 64M
+    timeout: 180
+    health-check-type: process
+    buildpack: binary_buildpack
