@@ -2,6 +2,6 @@
 echo "Starting Chatty App"
 while :
 do
-	echo "chatty app .... is chatty"
+	echo "code-editor working"
 	sleep 30
 done
